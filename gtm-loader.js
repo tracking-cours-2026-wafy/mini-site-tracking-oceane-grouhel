@@ -11,7 +11,7 @@
 
 (function () {
   // Vérifie qu'un ID a bien été défini dans gtm-config.js
-  if (!window.GTM_ID || window.GTM_ID === "GTM-XXXXXX") {
+  if (!window.GTM_ID || window.GTM_ID === "GTM-NGQCG2KX") {
     console.warn(
       "[GTM] Aucun ID GTM configuré. Ouvre gtm-config.js et remplace " +
       "GTM-XXXXXX par ton vrai ID."
